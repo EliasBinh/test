@@ -1,7 +1,7 @@
 window.PorfolioConfig = {
-  name: 'John Doe',
-  jobTitle: 'Full-stack Web Developer',
-  jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
+  name: 'ELIAS',
+  jobTitle: 'Roblox Game-Developer',
+  jobDescription: 'Rnb Lover',
   skills: [
     {
       name: 'JavaScript',
@@ -24,13 +24,13 @@ window.PorfolioConfig = {
     },
     {
       name: 'ToDo App',
-      link: 'https://theuselessweb.com/',
-      description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
+      link: 'https://longdogechallenge.com/',
+      description: 'Des'
     },
     {
       name: 'A Mobile Game',
-      link: 'https://theuselessweb.com/',
-      description: 'Incididunt non cupidatat deserunt ut commodo qui non do Lorem. Qui aute minim enim sit magna est consectetur incididunt. Ex est cupidatat tempor pariatur deserunt labore tempor minim laboris magna ipsum minim ea ea. Consectetur do anim laboris nulla nisi veniam sint qui.'
+      link: 'https://longdogechallenge.com/',
+      description: 'Đes'
     }
   ],
   hobbies: [
@@ -48,21 +48,21 @@ window.PorfolioConfig = {
     }
   ],
   contacts: {
-    email: 'john.doe@gmail.com',
-    mobileNo: '+639171234567',
-    phoneNo: '+12 345 6789',
+    email: 'nguyenducbinh.dongnai@gmail.com',
+    mobileNo: '0933 858 102',
+    phoneNo: '1111111111111',
     links: [
       {
         name: 'GitHub',
-        link: 'https://github.com/jofftiquez'
+        link: 'https://github.com/EliasBinh'
       },
       {
         name: 'Facebook',
-        link: 'https://facebook.com/jofftiquez'
+        link: 'https://www.facebook.com/Eliasnayyy'
       },
       {
-        name: 'Twitter',
-        link: 'https://twitter.com/jrtiquez'
+        name: 'Spotify',
+        link: 'https://open.spotify.com/user/31ruibhk5oqd5t2ygm3p2uibmdfu?si=1eaf4f7d2af049d8'
       }
     ]
   }
